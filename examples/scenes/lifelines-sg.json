@@ -1,0 +1,911 @@
+{
+  "marktype": "group",
+  "interactive": false,
+  "items": [
+    {
+      "status": 1,
+      "datum": {
+        "sentinel": 1
+      },
+      "key": 0,
+      "items": [
+        {
+          "marktype": "text",
+          "interactive": true,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "Decl. of Independence",
+                  "when": -6106064400000
+                },
+                "index": 0
+              },
+              "key": 0,
+              "x": 170,
+              "y": -10,
+              "angle": -25,
+              "fill": "#000",
+              "text": "Decl. of Independence",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "U.S. Constitution",
+                  "when": -5706378000000
+                },
+                "index": 1
+              },
+              "key": 1,
+              "x": 218,
+              "y": -10,
+              "angle": -25,
+              "fill": "#000",
+              "text": "U.S. Constitution",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "Louisiana Purchase",
+                  "when": -5259776400000
+                },
+                "index": 2
+              },
+              "key": 2,
+              "x": 272,
+              "y": -10,
+              "angle": -25,
+              "fill": "#000",
+              "text": "Louisiana Purchase",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "Monroe Doctrine",
+                  "when": -4609962000000
+                },
+                "index": 3
+              },
+              "key": 3,
+              "x": 350,
+              "y": -10,
+              "angle": -25,
+              "fill": "#000",
+              "text": "Monroe Doctrine",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "interactive": true,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "Decl. of Independence",
+                  "when": -6106064400000
+                },
+                "index": 0
+              },
+              "key": 0,
+              "x": 170,
+              "y": -8,
+              "width": 1,
+              "height": 108,
+              "fill": "#888"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "U.S. Constitution",
+                  "when": -5706378000000
+                },
+                "index": 1
+              },
+              "key": 1,
+              "x": 218,
+              "y": -8,
+              "width": 1,
+              "height": 108,
+              "fill": "#888"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "Louisiana Purchase",
+                  "when": -5259776400000
+                },
+                "index": 2
+              },
+              "key": 2,
+              "x": 272,
+              "y": -8,
+              "width": 1,
+              "height": 108,
+              "fill": "#888"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "name": "Monroe Doctrine",
+                  "when": -4609962000000
+                },
+                "index": 3
+              },
+              "key": 3,
+              "x": 350,
+              "y": -8,
+              "width": 1,
+              "height": 108,
+              "fill": "#888"
+            }
+          ]
+        },
+        {
+          "marktype": "text",
+          "interactive": true,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Washington",
+                  "born": -7506057600000,
+                  "died": -5366196000000,
+                  "enter": -5701424400000,
+                  "leave": -5453884800000
+                },
+                "index": 0
+              },
+              "key": 0,
+              "x": 1,
+              "y": -3,
+              "fill": "#000",
+              "text": "Washington",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Adams",
+                  "born": -7389766800000,
+                  "died": -4528285200000,
+                  "enter": -5453884800000,
+                  "leave": -5327740800000
+                },
+                "index": 1
+              },
+              "key": 1,
+              "x": 15,
+              "y": 17,
+              "fill": "#000",
+              "text": "Adams",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Jefferson",
+                  "born": -7154586000000,
+                  "died": -4528285200000,
+                  "enter": -5327740800000,
+                  "leave": -5075280000000
+                },
+                "index": 2
+              },
+              "key": 2,
+              "x": 43,
+              "y": 37,
+              "fill": "#000",
+              "text": "Jefferson",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Madison",
+                  "born": -6904544400000,
+                  "died": -4213184400000,
+                  "enter": -5075280000000,
+                  "leave": -4822819200000
+                },
+                "index": 3
+              },
+              "key": 3,
+              "x": 73,
+              "y": 57,
+              "fill": "#000",
+              "text": "Madison",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Monroe",
+                  "born": -6679904400000,
+                  "died": -4370518800000,
+                  "enter": -4822819200000,
+                  "leave": -4570358400000
+                },
+                "index": 4
+              },
+              "key": 4,
+              "x": 100,
+              "y": 77,
+              "fill": "#000",
+              "text": "Monroe",
+              "font": "Helvetica Neue",
+              "fontSize": 10
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "interactive": true,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Washington",
+                  "born": -7506057600000,
+                  "died": -5366196000000,
+                  "enter": -5701424400000,
+                  "leave": -5453884800000
+                },
+                "index": 0
+              },
+              "key": 0,
+              "x": 1,
+              "x2": 259,
+              "y": 0,
+              "height": 2,
+              "fill": "#557",
+              "width": 258
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Adams",
+                  "born": -7389766800000,
+                  "died": -4528285200000,
+                  "enter": -5453884800000,
+                  "leave": -5327740800000
+                },
+                "index": 1
+              },
+              "key": 1,
+              "x": 15,
+              "x2": 360,
+              "y": 20,
+              "height": 2,
+              "fill": "#557",
+              "width": 345
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Jefferson",
+                  "born": -7154586000000,
+                  "died": -4528285200000,
+                  "enter": -5327740800000,
+                  "leave": -5075280000000
+                },
+                "index": 2
+              },
+              "key": 2,
+              "x": 43,
+              "x2": 360,
+              "y": 40,
+              "height": 2,
+              "fill": "#557",
+              "width": 317
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Madison",
+                  "born": -6904544400000,
+                  "died": -4213184400000,
+                  "enter": -5075280000000,
+                  "leave": -4822819200000
+                },
+                "index": 3
+              },
+              "key": 3,
+              "x": 73,
+              "x2": 398,
+              "y": 60,
+              "height": 2,
+              "fill": "#557",
+              "width": 325
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Monroe",
+                  "born": -6679904400000,
+                  "died": -4370518800000,
+                  "enter": -4822819200000,
+                  "leave": -4570358400000
+                },
+                "index": 4
+              },
+              "key": 4,
+              "x": 100,
+              "x2": 379,
+              "y": 80,
+              "height": 2,
+              "fill": "#557",
+              "width": 279
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "interactive": true,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Washington",
+                  "born": -7506057600000,
+                  "died": -5366196000000,
+                  "enter": -5701424400000,
+                  "leave": -5453884800000
+                },
+                "index": 0
+              },
+              "key": 0,
+              "x": 218,
+              "x2": 248,
+              "y": -1,
+              "height": 4,
+              "fill": "#e44",
+              "width": 30
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Adams",
+                  "born": -7389766800000,
+                  "died": -4528285200000,
+                  "enter": -5453884800000,
+                  "leave": -5327740800000
+                },
+                "index": 1
+              },
+              "key": 1,
+              "x": 248,
+              "x2": 264,
+              "y": 19,
+              "height": 4,
+              "fill": "#e44",
+              "width": 16
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Jefferson",
+                  "born": -7154586000000,
+                  "died": -4528285200000,
+                  "enter": -5327740800000,
+                  "leave": -5075280000000
+                },
+                "index": 2
+              },
+              "key": 2,
+              "x": 264,
+              "x2": 294,
+              "y": 39,
+              "height": 4,
+              "fill": "#e44",
+              "width": 30
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Madison",
+                  "born": -6904544400000,
+                  "died": -4213184400000,
+                  "enter": -5075280000000,
+                  "leave": -4822819200000
+                },
+                "index": 3
+              },
+              "key": 3,
+              "x": 294,
+              "x2": 324,
+              "y": 59,
+              "height": 4,
+              "fill": "#e44",
+              "width": 30
+            },
+            {
+              "status": 1,
+              "datum": {
+                "data": {
+                  "label": "Monroe",
+                  "born": -6679904400000,
+                  "died": -4370518800000,
+                  "enter": -4822819200000,
+                  "leave": -4570358400000
+                },
+                "index": 4
+              },
+              "key": 4,
+              "x": 324,
+              "x2": 355,
+              "y": 79,
+              "height": 4,
+              "fill": "#e44",
+              "width": 31
+            }
+          ]
+        }
+      ],
+      "width": 400,
+      "height": 100,
+      "axisItems": [
+        {
+          "marktype": "group",
+          "interactive": false,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "sentinel": 1
+              },
+              "key": 0,
+              "items": [
+                {
+                  "marktype": "rule",
+                  "interactive": false,
+                  "items": []
+                },
+                {
+                  "marktype": "rule",
+                  "interactive": false,
+                  "items": [
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1739-12-31T23:00:00.000Z",
+                        "index": 0,
+                        "label": "1740"
+                      },
+                      "key": "Fri Jan 1 00:00:00 1740 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 30.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1749-12-31T23:00:00.000Z",
+                        "index": 1,
+                        "label": "1750"
+                      },
+                      "key": "Thu Jan 1 00:00:00 1750 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 69.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1759-12-31T23:00:00.000Z",
+                        "index": 2,
+                        "label": "1760"
+                      },
+                      "key": "Tue Jan 1 00:00:00 1760 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 107.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1769-12-31T23:00:00.000Z",
+                        "index": 3,
+                        "label": "1770"
+                      },
+                      "key": "Mon Jan 1 00:00:00 1770 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 145.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1779-12-31T23:00:00.000Z",
+                        "index": 4,
+                        "label": "1780"
+                      },
+                      "key": "Sat Jan 1 00:00:00 1780 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 183.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1789-12-31T23:00:00.000Z",
+                        "index": 5,
+                        "label": "1790"
+                      },
+                      "key": "Fri Jan 1 00:00:00 1790 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 221.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1799-12-31T23:00:00.000Z",
+                        "index": 6,
+                        "label": "1800"
+                      },
+                      "key": "Wed Jan 1 00:00:00 1800 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 259.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1809-12-31T23:00:00.000Z",
+                        "index": 7,
+                        "label": "1810"
+                      },
+                      "key": "Mon Jan 1 00:00:00 1810 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 297.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1819-12-31T23:00:00.000Z",
+                        "index": 8,
+                        "label": "1820"
+                      },
+                      "key": "Sat Jan 1 00:00:00 1820 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 335.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1829-12-31T23:00:00.000Z",
+                        "index": 9,
+                        "label": "1830"
+                      },
+                      "key": "Fri Jan 1 00:00:00 1830 GMT+0100",
+                      "opacity": 1,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 373.5,
+                      "y": 0,
+                      "y2": 6,
+                      "height": 6
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "interactive": false,
+                  "items": []
+                },
+                {
+                  "marktype": "text",
+                  "interactive": true,
+                  "items": [
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1739-12-31T23:00:00.000Z",
+                        "index": 0,
+                        "label": "1740"
+                      },
+                      "key": "Fri Jan 1 00:00:00 1740 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1740",
+                      "x": 30.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1749-12-31T23:00:00.000Z",
+                        "index": 1,
+                        "label": "1750"
+                      },
+                      "key": "Thu Jan 1 00:00:00 1750 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1750",
+                      "x": 69.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1759-12-31T23:00:00.000Z",
+                        "index": 2,
+                        "label": "1760"
+                      },
+                      "key": "Tue Jan 1 00:00:00 1760 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1760",
+                      "x": 107.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1769-12-31T23:00:00.000Z",
+                        "index": 3,
+                        "label": "1770"
+                      },
+                      "key": "Mon Jan 1 00:00:00 1770 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1770",
+                      "x": 145.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1779-12-31T23:00:00.000Z",
+                        "index": 4,
+                        "label": "1780"
+                      },
+                      "key": "Sat Jan 1 00:00:00 1780 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1780",
+                      "x": 183.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1789-12-31T23:00:00.000Z",
+                        "index": 5,
+                        "label": "1790"
+                      },
+                      "key": "Fri Jan 1 00:00:00 1790 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1790",
+                      "x": 221.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1799-12-31T23:00:00.000Z",
+                        "index": 6,
+                        "label": "1800"
+                      },
+                      "key": "Wed Jan 1 00:00:00 1800 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1800",
+                      "x": 259.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1809-12-31T23:00:00.000Z",
+                        "index": 7,
+                        "label": "1810"
+                      },
+                      "key": "Mon Jan 1 00:00:00 1810 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1810",
+                      "x": 297.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1819-12-31T23:00:00.000Z",
+                        "index": 8,
+                        "label": "1820"
+                      },
+                      "key": "Sat Jan 1 00:00:00 1820 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1820",
+                      "x": 335.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": "1829-12-31T23:00:00.000Z",
+                        "index": 9,
+                        "label": "1830"
+                      },
+                      "key": "Fri Jan 1 00:00:00 1830 GMT+0100",
+                      "fill": "#000",
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "opacity": 1,
+                      "text": "1830",
+                      "x": 373.5,
+                      "y": 9,
+                      "align": "center",
+                      "baseline": "top"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "path",
+                  "interactive": false,
+                  "items": [
+                    {
+                      "status": 1,
+                      "datum": 1,
+                      "key": 0,
+                      "stroke": "#000",
+                      "strokeWidth": 1,
+                      "x": 0.5,
+                      "y": 0.5,
+                      "path": "M0,6V0H400V6",
+                      "pathCache": [
+                        [
+                          "M",
+                          0,
+                          6
+                        ],
+                        [
+                          "V",
+                          0
+                        ],
+                        [
+                          "H",
+                          400
+                        ],
+                        [
+                          "V",
+                          6
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "interactive": true,
+                  "items": []
+                }
+              ],
+              "x": 0,
+              "y": 100
+            }
+          ]
+        }
+      ],
+      "legendItems": [],
+      "padding": {
+        "bottom": 29,
+        "left": 6,
+        "right": 39,
+        "top": 75
+      }
+    }
+  ]
+}

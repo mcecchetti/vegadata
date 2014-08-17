@@ -1,0 +1,2482 @@
+{
+  "marktype": "group",
+  "interactive": false,
+  "items": [
+    {
+      "status": 1,
+      "datum": {
+        "sentinel": 1
+      },
+      "key": 0,
+      "items": [
+        {
+          "marktype": "text",
+          "interactive": false,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "age": 0
+              },
+              "key": 0,
+              "x": 325,
+              "y": 390,
+              "text": 0,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 5
+              },
+              "key": 1,
+              "x": 325,
+              "y": 369,
+              "text": 5,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 10
+              },
+              "key": 2,
+              "x": 325,
+              "y": 348,
+              "text": 10,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 15
+              },
+              "key": 3,
+              "x": 325,
+              "y": 327,
+              "text": 15,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 20
+              },
+              "key": 4,
+              "x": 325,
+              "y": 306,
+              "text": 20,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 25
+              },
+              "key": 5,
+              "x": 325,
+              "y": 285,
+              "text": 25,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 30
+              },
+              "key": 6,
+              "x": 325,
+              "y": 264,
+              "text": 30,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 35
+              },
+              "key": 7,
+              "x": 325,
+              "y": 243,
+              "text": 35,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 40
+              },
+              "key": 8,
+              "x": 325,
+              "y": 222,
+              "text": 40,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 45
+              },
+              "key": 9,
+              "x": 325,
+              "y": 201,
+              "text": 45,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 50
+              },
+              "key": 10,
+              "x": 325,
+              "y": 180,
+              "text": 50,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 55
+              },
+              "key": 11,
+              "x": 325,
+              "y": 159,
+              "text": 55,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 60
+              },
+              "key": 12,
+              "x": 325,
+              "y": 138,
+              "text": 60,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 65
+              },
+              "key": 13,
+              "x": 325,
+              "y": 117,
+              "text": 65,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 70
+              },
+              "key": 14,
+              "x": 325,
+              "y": 96,
+              "text": 70,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 75
+              },
+              "key": 15,
+              "x": 325,
+              "y": 75,
+              "text": 75,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 80
+              },
+              "key": 16,
+              "x": 325,
+              "y": 54,
+              "text": 80,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 85
+              },
+              "key": 17,
+              "x": 325,
+              "y": 33,
+              "text": 85,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            },
+            {
+              "status": 1,
+              "datum": {
+                "age": 90
+              },
+              "key": 18,
+              "x": 325,
+              "y": 12,
+              "text": 90,
+              "baseline": "middle",
+              "align": "center",
+              "fill": "#000"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "interactive": true,
+          "items": [
+            {
+              "status": 1,
+              "datum": {
+                "index": 0,
+                "key": "1",
+                "keys": [
+                  1
+                ],
+                "values": [
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 0,
+                      "sex": 1,
+                      "people": 9735380
+                    },
+                    "index": 532
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 5,
+                      "sex": 1,
+                      "people": 10552146
+                    },
+                    "index": 534
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 10,
+                      "sex": 1,
+                      "people": 10563233
+                    },
+                    "index": 536
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 15,
+                      "sex": 1,
+                      "people": 10237419
+                    },
+                    "index": 538
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 20,
+                      "sex": 1,
+                      "people": 9731315
+                    },
+                    "index": 540
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 25,
+                      "sex": 1,
+                      "people": 9659493
+                    },
+                    "index": 542
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 30,
+                      "sex": 1,
+                      "people": 10205879
+                    },
+                    "index": 544
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 35,
+                      "sex": 1,
+                      "people": 11475182
+                    },
+                    "index": 546
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 40,
+                      "sex": 1,
+                      "people": 11320252
+                    },
+                    "index": 548
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 45,
+                      "sex": 1,
+                      "people": 9925006
+                    },
+                    "index": 550
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 50,
+                      "sex": 1,
+                      "people": 8507934
+                    },
+                    "index": 552
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 55,
+                      "sex": 1,
+                      "people": 6459082
+                    },
+                    "index": 554
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 60,
+                      "sex": 1,
+                      "people": 5123399
+                    },
+                    "index": 556
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 65,
+                      "sex": 1,
+                      "people": 4453623
+                    },
+                    "index": 558
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 70,
+                      "sex": 1,
+                      "people": 3792145
+                    },
+                    "index": 560
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 75,
+                      "sex": 1,
+                      "people": 2912655
+                    },
+                    "index": 562
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 80,
+                      "sex": 1,
+                      "people": 1902638
+                    },
+                    "index": 564
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 85,
+                      "sex": 1,
+                      "people": 970357
+                    },
+                    "index": 566
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 90,
+                      "sex": 1,
+                      "people": 336303
+                    },
+                    "index": 568
+                  }
+                ]
+              },
+              "key": 0,
+              "items": [
+                {
+                  "marktype": "rect",
+                  "interactive": true,
+                  "items": [
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 0,
+                          "sex": 1,
+                          "people": 9735380
+                        },
+                        "index": 532
+                      },
+                      "key": 0,
+                      "x": 0,
+                      "x2": 243.3845,
+                      "y": 379,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 243.3845
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 5,
+                          "sex": 1,
+                          "people": 10552146
+                        },
+                        "index": 534
+                      },
+                      "key": 1,
+                      "x": 0,
+                      "x2": 263.80365,
+                      "y": 358,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 263.80365
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 10,
+                          "sex": 1,
+                          "people": 10563233
+                        },
+                        "index": 536
+                      },
+                      "key": 2,
+                      "x": 0,
+                      "x2": 264.080825,
+                      "y": 337,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 264.080825
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 15,
+                          "sex": 1,
+                          "people": 10237419
+                        },
+                        "index": 538
+                      },
+                      "key": 3,
+                      "x": 0,
+                      "x2": 255.93547500000003,
+                      "y": 316,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 255.93547500000003
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 20,
+                          "sex": 1,
+                          "people": 9731315
+                        },
+                        "index": 540
+                      },
+                      "key": 4,
+                      "x": 0,
+                      "x2": 243.28287500000002,
+                      "y": 295,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 243.28287500000002
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 25,
+                          "sex": 1,
+                          "people": 9659493
+                        },
+                        "index": 542
+                      },
+                      "key": 5,
+                      "x": 0,
+                      "x2": 241.487325,
+                      "y": 274,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 241.487325
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 30,
+                          "sex": 1,
+                          "people": 10205879
+                        },
+                        "index": 544
+                      },
+                      "key": 6,
+                      "x": 0,
+                      "x2": 255.14697500000003,
+                      "y": 253,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 255.14697500000003
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 35,
+                          "sex": 1,
+                          "people": 11475182
+                        },
+                        "index": 546
+                      },
+                      "key": 7,
+                      "x": 0,
+                      "x2": 286.87955,
+                      "y": 232,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 286.87955
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 40,
+                          "sex": 1,
+                          "people": 11320252
+                        },
+                        "index": 548
+                      },
+                      "key": 8,
+                      "x": 0,
+                      "x2": 283.0063,
+                      "y": 211,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 283.0063
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 45,
+                          "sex": 1,
+                          "people": 9925006
+                        },
+                        "index": 550
+                      },
+                      "key": 9,
+                      "x": 0,
+                      "x2": 248.12515000000002,
+                      "y": 190,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 248.12515000000002
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 50,
+                          "sex": 1,
+                          "people": 8507934
+                        },
+                        "index": 552
+                      },
+                      "key": 10,
+                      "x": 0,
+                      "x2": 212.69835000000003,
+                      "y": 169,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 212.69835000000003
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 55,
+                          "sex": 1,
+                          "people": 6459082
+                        },
+                        "index": 554
+                      },
+                      "key": 11,
+                      "x": 0,
+                      "x2": 161.47705000000002,
+                      "y": 148,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 161.47705000000002
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 60,
+                          "sex": 1,
+                          "people": 5123399
+                        },
+                        "index": 556
+                      },
+                      "key": 12,
+                      "x": 0,
+                      "x2": 128.08497500000001,
+                      "y": 127,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 128.08497500000001
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 65,
+                          "sex": 1,
+                          "people": 4453623
+                        },
+                        "index": 558
+                      },
+                      "key": 13,
+                      "x": 0,
+                      "x2": 111.340575,
+                      "y": 106,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 111.340575
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 70,
+                          "sex": 1,
+                          "people": 3792145
+                        },
+                        "index": 560
+                      },
+                      "key": 14,
+                      "x": 0,
+                      "x2": 94.80362500000001,
+                      "y": 85,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 94.80362500000001
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 75,
+                          "sex": 1,
+                          "people": 2912655
+                        },
+                        "index": 562
+                      },
+                      "key": 15,
+                      "x": 0,
+                      "x2": 72.81637500000001,
+                      "y": 64,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 72.81637500000001
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 80,
+                          "sex": 1,
+                          "people": 1902638
+                        },
+                        "index": 564
+                      },
+                      "key": 16,
+                      "x": 0,
+                      "x2": 47.56595000000001,
+                      "y": 43,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 47.56595000000001
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 85,
+                          "sex": 1,
+                          "people": 970357
+                        },
+                        "index": 566
+                      },
+                      "key": 17,
+                      "x": 0,
+                      "x2": 24.258925,
+                      "y": 22,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 24.258925
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 90,
+                          "sex": 1,
+                          "people": 336303
+                        },
+                        "index": 568
+                      },
+                      "key": 18,
+                      "x": 0,
+                      "x2": 8.407575000000001,
+                      "y": 1,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#1f77b4",
+                      "width": 8.407575000000001
+                    }
+                  ]
+                }
+              ],
+              "x": 340,
+              "y": 0,
+              "width": 300,
+              "height": 400,
+              "axisItems": [
+                {
+                  "marktype": "group",
+                  "interactive": false,
+                  "items": [
+                    {
+                      "status": 1,
+                      "datum": {
+                        "sentinel": 1
+                      },
+                      "key": 0,
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "interactive": false,
+                          "items": []
+                        },
+                        {
+                          "marktype": "rule",
+                          "interactive": false,
+                          "items": [
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 0,
+                                "index": 0,
+                                "label": "0"
+                              },
+                              "key": "0",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 0.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 1000000,
+                                "index": 1,
+                                "label": "1M"
+                              },
+                              "key": "1000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 25.500000000000004,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 2000000,
+                                "index": 2,
+                                "label": "2M"
+                              },
+                              "key": "2000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 50.50000000000001,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 3000000,
+                                "index": 3,
+                                "label": "3M"
+                              },
+                              "key": "3000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 75.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 4000000,
+                                "index": 4,
+                                "label": "4M"
+                              },
+                              "key": "4000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 100.50000000000001,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 5000000,
+                                "index": 5,
+                                "label": "5M"
+                              },
+                              "key": "5000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 125.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 6000000,
+                                "index": 6,
+                                "label": "6M"
+                              },
+                              "key": "6000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 150.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 7000000,
+                                "index": 7,
+                                "label": "7M"
+                              },
+                              "key": "7000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 175.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 8000000,
+                                "index": 8,
+                                "label": "8M"
+                              },
+                              "key": "8000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 200.50000000000003,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 9000000,
+                                "index": 9,
+                                "label": "9M"
+                              },
+                              "key": "9000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 225.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 10000000,
+                                "index": 10,
+                                "label": "10M"
+                              },
+                              "key": "10000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 250.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 11000000,
+                                "index": 11,
+                                "label": "11M"
+                              },
+                              "key": "11000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 275.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 12000000,
+                                "index": 12,
+                                "label": "12M"
+                              },
+                              "key": "12000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 300.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "interactive": false,
+                          "items": []
+                        },
+                        {
+                          "marktype": "text",
+                          "interactive": true,
+                          "items": [
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 0,
+                                "index": 0,
+                                "label": "0"
+                              },
+                              "key": "0",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "0",
+                              "x": 0.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 1000000,
+                                "index": 1,
+                                "label": "1M"
+                              },
+                              "key": "1000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "1M",
+                              "x": 25.500000000000004,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 2000000,
+                                "index": 2,
+                                "label": "2M"
+                              },
+                              "key": "2000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "2M",
+                              "x": 50.50000000000001,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 3000000,
+                                "index": 3,
+                                "label": "3M"
+                              },
+                              "key": "3000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "3M",
+                              "x": 75.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 4000000,
+                                "index": 4,
+                                "label": "4M"
+                              },
+                              "key": "4000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "4M",
+                              "x": 100.50000000000001,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 5000000,
+                                "index": 5,
+                                "label": "5M"
+                              },
+                              "key": "5000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "5M",
+                              "x": 125.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 6000000,
+                                "index": 6,
+                                "label": "6M"
+                              },
+                              "key": "6000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "6M",
+                              "x": 150.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 7000000,
+                                "index": 7,
+                                "label": "7M"
+                              },
+                              "key": "7000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "7M",
+                              "x": 175.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 8000000,
+                                "index": 8,
+                                "label": "8M"
+                              },
+                              "key": "8000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "8M",
+                              "x": 200.50000000000003,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 9000000,
+                                "index": 9,
+                                "label": "9M"
+                              },
+                              "key": "9000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "9M",
+                              "x": 225.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 10000000,
+                                "index": 10,
+                                "label": "10M"
+                              },
+                              "key": "10000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "10M",
+                              "x": 250.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 11000000,
+                                "index": 11,
+                                "label": "11M"
+                              },
+                              "key": "11000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "11M",
+                              "x": 275.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 12000000,
+                                "index": 12,
+                                "label": "12M"
+                              },
+                              "key": "12000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "12M",
+                              "x": 300.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "path",
+                          "interactive": false,
+                          "items": [
+                            {
+                              "status": 1,
+                              "datum": 1,
+                              "key": 0,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 0.5,
+                              "y": 0.5,
+                              "path": "M0,6V0H300V6",
+                              "pathCache": [
+                                [
+                                  "M",
+                                  0,
+                                  6
+                                ],
+                                [
+                                  "V",
+                                  0
+                                ],
+                                [
+                                  "H",
+                                  300
+                                ],
+                                [
+                                  "V",
+                                  6
+                                ]
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "interactive": true,
+                          "items": []
+                        }
+                      ],
+                      "x": 0,
+                      "y": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "status": 1,
+              "datum": {
+                "index": 1,
+                "key": "2",
+                "keys": [
+                  2
+                ],
+                "values": [
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 0,
+                      "sex": 2,
+                      "people": 9310714
+                    },
+                    "index": 533
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 5,
+                      "sex": 2,
+                      "people": 10069564
+                    },
+                    "index": 535
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 10,
+                      "sex": 2,
+                      "people": 10022524
+                    },
+                    "index": 537
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 15,
+                      "sex": 2,
+                      "people": 9692669
+                    },
+                    "index": 539
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 20,
+                      "sex": 2,
+                      "people": 9324244
+                    },
+                    "index": 541
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 25,
+                      "sex": 2,
+                      "people": 9518507
+                    },
+                    "index": 543
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 30,
+                      "sex": 2,
+                      "people": 10119296
+                    },
+                    "index": 545
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 35,
+                      "sex": 2,
+                      "people": 11635647
+                    },
+                    "index": 547
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 40,
+                      "sex": 2,
+                      "people": 11488578
+                    },
+                    "index": 549
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 45,
+                      "sex": 2,
+                      "people": 10261253
+                    },
+                    "index": 551
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 50,
+                      "sex": 2,
+                      "people": 8911133
+                    },
+                    "index": 553
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 55,
+                      "sex": 2,
+                      "people": 6921268
+                    },
+                    "index": 555
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 60,
+                      "sex": 2,
+                      "people": 5668961
+                    },
+                    "index": 557
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 65,
+                      "sex": 2,
+                      "people": 4804784
+                    },
+                    "index": 559
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 70,
+                      "sex": 2,
+                      "people": 5184855
+                    },
+                    "index": 561
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 75,
+                      "sex": 2,
+                      "people": 4355644
+                    },
+                    "index": 563
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 80,
+                      "sex": 2,
+                      "people": 3221898
+                    },
+                    "index": 565
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 85,
+                      "sex": 2,
+                      "people": 1981156
+                    },
+                    "index": 567
+                  },
+                  {
+                    "data": {
+                      "year": 2000,
+                      "age": 90,
+                      "sex": 2,
+                      "people": 1064581
+                    },
+                    "index": 569
+                  }
+                ]
+              },
+              "key": 1,
+              "items": [
+                {
+                  "marktype": "rect",
+                  "interactive": true,
+                  "items": [
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 0,
+                          "sex": 2,
+                          "people": 9310714
+                        },
+                        "index": 533
+                      },
+                      "key": 0,
+                      "x": 67.23214999999999,
+                      "x2": 300,
+                      "y": 379,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 232.76785
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 5,
+                          "sex": 2,
+                          "people": 10069564
+                        },
+                        "index": 535
+                      },
+                      "key": 1,
+                      "x": 48.260899999999964,
+                      "x2": 300,
+                      "y": 358,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 251.73910000000004
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 10,
+                          "sex": 2,
+                          "people": 10022524
+                        },
+                        "index": 537
+                      },
+                      "key": 2,
+                      "x": 49.43689999999998,
+                      "x2": 300,
+                      "y": 337,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 250.56310000000002
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 15,
+                          "sex": 2,
+                          "people": 9692669
+                        },
+                        "index": 539
+                      },
+                      "key": 3,
+                      "x": 57.68327500000001,
+                      "x2": 300,
+                      "y": 316,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 242.316725
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 20,
+                          "sex": 2,
+                          "people": 9324244
+                        },
+                        "index": 541
+                      },
+                      "key": 4,
+                      "x": 66.89389999999997,
+                      "x2": 300,
+                      "y": 295,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 233.10610000000003
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 25,
+                          "sex": 2,
+                          "people": 9518507
+                        },
+                        "index": 543
+                      },
+                      "key": 5,
+                      "x": 62.03732499999998,
+                      "x2": 300,
+                      "y": 274,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 237.96267500000002
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 30,
+                          "sex": 2,
+                          "people": 10119296
+                        },
+                        "index": 545
+                      },
+                      "key": 6,
+                      "x": 47.01759999999999,
+                      "x2": 300,
+                      "y": 253,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 252.9824
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 35,
+                          "sex": 2,
+                          "people": 11635647
+                        },
+                        "index": 547
+                      },
+                      "key": 7,
+                      "x": 9.108825000000024,
+                      "x2": 300,
+                      "y": 232,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 290.891175
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 40,
+                          "sex": 2,
+                          "people": 11488578
+                        },
+                        "index": 549
+                      },
+                      "key": 8,
+                      "x": 12.785549999999944,
+                      "x2": 300,
+                      "y": 211,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 287.21445000000006
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 45,
+                          "sex": 2,
+                          "people": 10261253
+                        },
+                        "index": 551
+                      },
+                      "key": 9,
+                      "x": 43.46867499999996,
+                      "x2": 300,
+                      "y": 190,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 256.53132500000004
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 50,
+                          "sex": 2,
+                          "people": 8911133
+                        },
+                        "index": 553
+                      },
+                      "key": 10,
+                      "x": 77.22167499999998,
+                      "x2": 300,
+                      "y": 169,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 222.77832500000002
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 55,
+                          "sex": 2,
+                          "people": 6921268
+                        },
+                        "index": 555
+                      },
+                      "key": 11,
+                      "x": 126.9683,
+                      "x2": 300,
+                      "y": 148,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 173.0317
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 60,
+                          "sex": 2,
+                          "people": 5668961
+                        },
+                        "index": 557
+                      },
+                      "key": 12,
+                      "x": 158.275975,
+                      "x2": 300,
+                      "y": 127,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 141.724025
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 65,
+                          "sex": 2,
+                          "people": 4804784
+                        },
+                        "index": 559
+                      },
+                      "key": 13,
+                      "x": 179.8804,
+                      "x2": 300,
+                      "y": 106,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 120.11959999999999
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 70,
+                          "sex": 2,
+                          "people": 5184855
+                        },
+                        "index": 561
+                      },
+                      "key": 14,
+                      "x": 170.378625,
+                      "x2": 300,
+                      "y": 85,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 129.621375
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 75,
+                          "sex": 2,
+                          "people": 4355644
+                        },
+                        "index": 563
+                      },
+                      "key": 15,
+                      "x": 191.1089,
+                      "x2": 300,
+                      "y": 64,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 108.8911
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 80,
+                          "sex": 2,
+                          "people": 3221898
+                        },
+                        "index": 565
+                      },
+                      "key": 16,
+                      "x": 219.45255,
+                      "x2": 300,
+                      "y": 43,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 80.54745
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 85,
+                          "sex": 2,
+                          "people": 1981156
+                        },
+                        "index": 567
+                      },
+                      "key": 17,
+                      "x": 250.4711,
+                      "x2": 300,
+                      "y": 22,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 49.52889999999999
+                    },
+                    {
+                      "status": 1,
+                      "datum": {
+                        "data": {
+                          "year": 2000,
+                          "age": 90,
+                          "sex": 2,
+                          "people": 1064581
+                        },
+                        "index": 569
+                      },
+                      "key": 18,
+                      "x": 273.385475,
+                      "x2": 300,
+                      "y": 1,
+                      "height": 20,
+                      "fillOpacity": 0.6,
+                      "fill": "#e377c2",
+                      "width": 26.614525000000015
+                    }
+                  ]
+                }
+              ],
+              "x": 10,
+              "y": 0,
+              "width": 300,
+              "height": 400,
+              "axisItems": [
+                {
+                  "marktype": "group",
+                  "interactive": false,
+                  "items": [
+                    {
+                      "status": 1,
+                      "datum": {
+                        "sentinel": 1
+                      },
+                      "key": 0,
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "interactive": false,
+                          "items": []
+                        },
+                        {
+                          "marktype": "rule",
+                          "interactive": false,
+                          "items": [
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 0,
+                                "index": 0,
+                                "label": "0"
+                              },
+                              "key": "0",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 300.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 1000000,
+                                "index": 1,
+                                "label": "1M"
+                              },
+                              "key": "1000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 275.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 2000000,
+                                "index": 2,
+                                "label": "2M"
+                              },
+                              "key": "2000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 250.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 3000000,
+                                "index": 3,
+                                "label": "3M"
+                              },
+                              "key": "3000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 225.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 4000000,
+                                "index": 4,
+                                "label": "4M"
+                              },
+                              "key": "4000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 200.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 5000000,
+                                "index": 5,
+                                "label": "5M"
+                              },
+                              "key": "5000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 175.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 6000000,
+                                "index": 6,
+                                "label": "6M"
+                              },
+                              "key": "6000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 150.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 7000000,
+                                "index": 7,
+                                "label": "7M"
+                              },
+                              "key": "7000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 125.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 8000000,
+                                "index": 8,
+                                "label": "8M"
+                              },
+                              "key": "8000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 100.49999999999997,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 9000000,
+                                "index": 9,
+                                "label": "9M"
+                              },
+                              "key": "9000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 75.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 10000000,
+                                "index": 10,
+                                "label": "10M"
+                              },
+                              "key": "10000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 50.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 11000000,
+                                "index": 11,
+                                "label": "11M"
+                              },
+                              "key": "11000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 25.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 12000000,
+                                "index": 12,
+                                "label": "12M"
+                              },
+                              "key": "12000000",
+                              "opacity": 1,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 0.5,
+                              "y": 0,
+                              "y2": 6,
+                              "height": 6
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "interactive": false,
+                          "items": []
+                        },
+                        {
+                          "marktype": "text",
+                          "interactive": true,
+                          "items": [
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 0,
+                                "index": 0,
+                                "label": "0"
+                              },
+                              "key": "0",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "0",
+                              "x": 300.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 1000000,
+                                "index": 1,
+                                "label": "1M"
+                              },
+                              "key": "1000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "1M",
+                              "x": 275.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 2000000,
+                                "index": 2,
+                                "label": "2M"
+                              },
+                              "key": "2000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "2M",
+                              "x": 250.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 3000000,
+                                "index": 3,
+                                "label": "3M"
+                              },
+                              "key": "3000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "3M",
+                              "x": 225.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 4000000,
+                                "index": 4,
+                                "label": "4M"
+                              },
+                              "key": "4000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "4M",
+                              "x": 200.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 5000000,
+                                "index": 5,
+                                "label": "5M"
+                              },
+                              "key": "5000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "5M",
+                              "x": 175.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 6000000,
+                                "index": 6,
+                                "label": "6M"
+                              },
+                              "key": "6000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "6M",
+                              "x": 150.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 7000000,
+                                "index": 7,
+                                "label": "7M"
+                              },
+                              "key": "7000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "7M",
+                              "x": 125.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 8000000,
+                                "index": 8,
+                                "label": "8M"
+                              },
+                              "key": "8000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "8M",
+                              "x": 100.49999999999997,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 9000000,
+                                "index": 9,
+                                "label": "9M"
+                              },
+                              "key": "9000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "9M",
+                              "x": 75.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 10000000,
+                                "index": 10,
+                                "label": "10M"
+                              },
+                              "key": "10000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "10M",
+                              "x": 50.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 11000000,
+                                "index": 11,
+                                "label": "11M"
+                              },
+                              "key": "11000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "11M",
+                              "x": 25.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            },
+                            {
+                              "status": 1,
+                              "datum": {
+                                "data": 12000000,
+                                "index": 12,
+                                "label": "12M"
+                              },
+                              "key": "12000000",
+                              "fill": "#000",
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "opacity": 1,
+                              "text": "12M",
+                              "x": 0.5,
+                              "y": 9,
+                              "align": "center",
+                              "baseline": "top"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "path",
+                          "interactive": false,
+                          "items": [
+                            {
+                              "status": 1,
+                              "datum": 1,
+                              "key": 0,
+                              "stroke": "#000",
+                              "strokeWidth": 1,
+                              "x": 0.5,
+                              "y": 0.5,
+                              "path": "M0,6V0H300V6",
+                              "pathCache": [
+                                [
+                                  "M",
+                                  0,
+                                  6
+                                ],
+                                [
+                                  "V",
+                                  0
+                                ],
+                                [
+                                  "H",
+                                  300
+                                ],
+                                [
+                                  "V",
+                                  6
+                                ]
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "interactive": true,
+                          "items": []
+                        }
+                      ],
+                      "x": 0,
+                      "y": 400
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "width": 700,
+      "height": 400,
+      "axisItems": [],
+      "legendItems": [],
+      "padding": {
+        "top": 0,
+        "left": 0,
+        "bottom": 20,
+        "right": 0
+      }
+    }
+  ]
+}
